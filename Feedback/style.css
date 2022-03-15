@@ -1,0 +1,12 @@
+header {
+    margin: 50px;
+}
+
+h1 {
+    float: inline-end;
+    display: block;
+}
+
+footer {
+    padding-top: 200px;
+}
